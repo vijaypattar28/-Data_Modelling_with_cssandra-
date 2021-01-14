@@ -1,4 +1,4 @@
-# Project: Data Modeling With Cassandra
+# Project: Data Modeling With Cassandra change
 
 ### Sparkify wants to analyse the user and songs data collected on their music streaming app. The analysis team needs to understand what songs users are listening. The model needs to be developed based on the following queries which needs to be answered
 
